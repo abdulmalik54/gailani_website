@@ -1,0 +1,62 @@
+/*
+* Template Name: The Tattooist
+* Template Description: Tattoo Studio Template
+* Template URI: http://demo.webisir.com/the-tattooist
+* Version: 1.2.6
+* Author: Webisir
+* Author URI: http://themeforest.net/user/webisir
+*/
+
+/*--------------------------------------------------------------
+    Custom CSS
+----------------------------------------------------------------*/
+
+.hero-image {
+  background-image: url("../img/artist.jpeg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position-x: right;
+  background-repeat: no-repeat;
+  background-size: 300px, 100px;
+  position: relative;
+}
+
+.page-cust {
+  margin-bottom: 0;
+  padding: 220px 20px 100px 20px;
+  background-image: url("../img/artist.jpeg");
+  background-repeat: no-repeat;
+  background-position: center 160px;
+}
+
+
+/* Solid border */
+hr.rounded {
+  border-top: 3px solid #FFFFFF;
+  border-radius: 5px;
+}
+
+.google-map {
+  padding-bottom: 50%;
+  position: relative;
+}
+
+.google-map1 {
+  padding-bottom: 50%;
+  position: relative;
+}
+
+.google-map iframe {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+.google-map1 iframe {
+  height: 85%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
